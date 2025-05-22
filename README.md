@@ -578,8 +578,8 @@ Explore the code, contribute, or drop a <img src="https://github.com/user-attach
 
 ## 🛡️ Maintainer  
 
-> **_This repository is maintained by [Hunterdii](https://github.com/Hunterdii)._**  
-> Have suggestions? Feel free to reach out to [me via email](mailto:het8185@gmail.com). 📧
+> **_This repository is maintained by VAISHNAVI S**  
+> Have suggestions? Feel free to reach out to [me via email](mailto:vaishusmile0931@gmail.com). 📧
 
 
 ## 📰 News  
@@ -594,8 +594,8 @@ If you appreciate this repository and want to show your support, you can do so t
 
 | ❤️ **Platform**        | 🌟 **Support Link**                                                                                                                                        |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)](https://github.com/sponsors/Hunterdii)                  |
-| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://www.buymeacoffee.com/het81857)                 |
-| **Thanks.dev**         | [![Thanks.dev](https://img.shields.io/badge/💜-Thanks.dev-purple?style=flat-square)](https://thanks.dev/Hunterdii)                                          |
+| **GitHub Sponsors**    | [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-red?style=flat-square&logo=github)]             |
+| **Buy Me a Coffee**    | [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)]              |
+| **Thanks.dev**         |                                           |
 
 **Thank you for your support! Every bit helps keep this repository going.** 🌈✨
