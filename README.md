@@ -41,10 +41,7 @@
    
   </h4>
   <p>
-    <small align="justify">
-      Built with <img src="https://github.com/user-attachments/assets/00314b63-96bb-4e9a-92f6-4ead67e0fb7d" width="25" height="25"> by 
-      <a href="https://www.linkedin.com/in/het-patel-8b110525a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Het Patel</a>
-     </small>
+    
   </p>
   
 </div><br/><br/>
